@@ -1,0 +1,22 @@
+{
+  "name": "node_moudles_test",
+  "version": "1.0.0",
+  "description": "test node moudle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pisceswin/node_moudles_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pisceswin/node_moudles_test/issues"
+  },
+  "homepage": "https://github.com/pisceswin/node_moudles_test",
+  "dependencies": {
+    "mongodb": "^2.0.33"
+  }
+}
